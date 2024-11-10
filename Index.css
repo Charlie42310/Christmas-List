@@ -1,0 +1,72 @@
+th{
+	font-size:30px;
+	background-color: green;
+	color:black;
+}
+td {
+	padding: 2px 15px;
+	background-color: #C55254;
+}
+h1 {
+	text-align: center;
+	color: white;
+}
+h2 {
+	color: white;
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+h4 {
+	color: white;
+}
+body {
+	   background: url("Fire.jpg");
+}
+nav.sitenavigation {
+    color: #34180f;
+	text-align: center;
+	background-color: red;
+}
+nav.sitenavigation p {
+	display: inline-block;
+	margin: 0.5em; 
+}
+nav.sitenavigation a:link {
+	text-decoration: none;
+	color: white;
+}
+nav.sitenavigation a:visited {
+	color: white;
+}
+nav.sitenavigation a:hover, nav.sitenavigation a:focus {
+	color: green;
+}
+nav.pagenavigation {
+	margin-top: 1em;
+	text-align: center;
+	color: white;
+	background-color: green
+}
+nav.pagenavigation p {
+	display: inline-block;
+	margin: 0.5em;
+	padding: 0;
+}
+nav.pagenavigation a:link {
+	text-decoration: none;
+	color: white;
+}
+nav.pagenavigation a:visited {
+	color: white;
+}
+nav.pagenavigation a:hover, nav.pagenavigation a:focus {
+	color: red;
+}
+h3 {
+	color:white;
+}
+li {
+	color:white;
+}
